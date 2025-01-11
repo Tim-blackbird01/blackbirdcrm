@@ -69,8 +69,7 @@
                
 
 
-<!--  Author Name: Mayuri K. = www.mayurik.com
- for any PHP, Codeignitor or Laravel work contact me at mayuri.infospace@gmail.com  -->
+
 <?php include('./constant/layout/footer.php');?>
 
 
